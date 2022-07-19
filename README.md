@@ -1,3 +1,3 @@
 # Intro
  
- Git hub intro
+ Github intro
